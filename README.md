@@ -1,6 +1,6 @@
 ### Hi there, I'm Henning 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=henning410.visitor-badge)
 
 <!--
 **henning410/henning410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
