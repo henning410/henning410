@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Currently writing my Bachelor thesis<br>🏛 Studying Software Engineering and Digital Computing<br>📌Topic: Validating and implementation of methods for transcribing video in a streaming-platform<br>⛏ Trying to learn app development
+🎓 Bachelor in Software Engineering and Digital Computing<br>⛏ Trying to learn app development
 
 
 ## 🌐 Socials:
