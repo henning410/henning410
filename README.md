@@ -1,5 +1,7 @@
 # 💫 About Me:
-🎓 Bachelor in Software Engineering and Digital Computing<br>⛏ Trying to learn app development
+🎓 Master in Applied Computer Science<br>
+🎓 Bachelor in Software Engineering and Digital Computing<br>
+⛏ Trying to learn app development<br>
 
 
 ## 🌐 Socials:
