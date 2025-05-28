@@ -1,7 +1,7 @@
 # 💫 About Me:
 🎓 Master in Applied Computer Science<br>
-🎓 Bachelor in Software Engineering and Digital Computing<br>
-⛏ Trying to learn app development<br>
+🎓 Bachelor in Software Engineering and Media Computing<br>
+⛏ Working in Forensics<br>
 
 
 ## 🌐 Socials:
